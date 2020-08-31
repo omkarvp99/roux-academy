@@ -7,4 +7,9 @@ Course is available on Linkedin Learning.
 
 This is the project for the Ray Villalobos' course Building a Website with Node.js and Express.js . It's a pretty basic course about Express.js, but a very good one for beginners.
 The author uses EJS as a templating system, and since the course was pretty basic.
+ 
+# Screenshot- 
 
+1. Home Screen
+
+![](static/images/roux.png)
